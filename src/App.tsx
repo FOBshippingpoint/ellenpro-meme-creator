@@ -9,7 +9,7 @@ import {
 } from "@hope-ui/solid";
 import Control from "./Control";
 import Draw from "./Draw";
-import { createSignal, For, Index } from "solid-js";
+import { createSignal, For } from "solid-js";
 import bg1 from "./images/do_you_know_what_is_this/bg.png";
 import bg2 from "./images/although_i_am_not_mathematician/bg.png";
 import bg3 from "./images/ya/bg.png";
