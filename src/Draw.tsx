@@ -1,4 +1,4 @@
-import { onMount, onCleanup, createEffect } from "solid-js";
+import { onMount, createEffect } from "solid-js";
 import hand from "./images/do_you_know_what_is_this/hand.png";
 import Canvas from "./Canvas";
 import { IChooseImage, IImgOption, ITextOption } from "./App";
